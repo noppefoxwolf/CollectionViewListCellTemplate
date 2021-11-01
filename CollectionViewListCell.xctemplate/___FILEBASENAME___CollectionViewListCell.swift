@@ -7,8 +7,6 @@
 //
 //
 
-import Foundation
-import SwiftRichString
 import UIKit
 
 struct ___VARIABLE_productName:identifier___ContentConfiguration: UIContentConfiguration {
