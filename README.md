@@ -1,0 +1,2 @@
+# CollectionViewListCellTemplate
+ 
